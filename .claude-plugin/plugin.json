@@ -1,0 +1,14 @@
+{
+  "name": "snabber",
+  "displayName": "Snabber",
+  "version": "1.0.0",
+  "description": "Brazilian personal and business finance with Open Finance: ask about spending, credit card bills, installments and investments, and log or recategorize transactions (opt-in write, undo for 30 days).",
+  "author": { "name": "Snabber", "email": "contato@snabber.com.br", "url": "https://snabber.com.br" },
+  "homepage": "https://snabber.com.br/claude",
+  "repository": "https://github.com/Snabber/snabber-mcp",
+  "license": "MIT",
+  "keywords": ["finance", "brazil", "open-finance", "personal-finance", "banking", "investments", "mcp"],
+  "documentationUrl": "https://snabber.com.br/api-mcp",
+  "privacyPolicyUrl": "https://snabber.com.br/politica-privacidade",
+  "termsOfServiceUrl": "https://snabber.com.br/termos-de-servico"
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "snabber": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://snabber.com.br/api/mcp", "--header", "Authorization:${AUTH_HEADER}"],
+      "env": { "AUTH_HEADER": "Bearer snb_live_..." }
+    }
+  }
+}

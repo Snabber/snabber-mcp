@@ -1,0 +1,15 @@
+{
+  "name": "snabber-mcp",
+  "owner": { "name": "Snabber", "url": "https://snabber.com.br" },
+  "description": "Snabber: Brazilian personal and business finance with Open Finance, inside Claude Code.",
+  "plugins": [
+    {
+      "name": "snabber",
+      "source": "./",
+      "description": "Snabber MCP server (remote, OAuth): transactions, credit card bills, installments and investments from Brazilian banks via Open Finance.",
+      "category": "finance",
+      "tags": ["finance", "brazil", "open-finance", "personal-finance", "banking", "investments", "mcp"],
+      "homepage": "https://snabber.com.br/claude"
+    }
+  ]
+}

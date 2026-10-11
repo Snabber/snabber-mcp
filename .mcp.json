@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "snabber": {
+      "type": "http",
+      "url": "https://snabber.com.br/api/mcp"
+    }
+  }
+}
